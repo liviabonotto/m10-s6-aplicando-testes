@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\livia\\source\\repos\\.NET 5 \u002B Unit Testing \u002B xUnit \u002B Convers\u00E3o de Temperaturas\\Temperatura.Testes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8438CF-60FB-4B06-8981-80743077FD3E}|Temperatura.Testes.csproj|c:\\users\\livia\\source\\repos\\.net 5 \u002B unit testing \u002B xunit \u002B convers\u00E3o de temperaturas\\temperatura.testes\\testesconversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8438CF-60FB-4B06-8981-80743077FD3E}|Temperatura.Testes.csproj|solutionrelative:testesconversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestesConversorTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\livia\\source\\repos\\.NET 5 \u002B Unit Testing \u002B xUnit \u002B Convers\u00E3o de Temperaturas\\Temperatura.Testes\\TestesConversorTemperatura.cs",
+              "RelativeDocumentMoniker": "TestesConversorTemperatura.cs",
+              "ToolTip": "C:\\Users\\livia\\source\\repos\\.NET 5 \u002B Unit Testing \u002B xUnit \u002B Convers\u00E3o de Temperaturas\\Temperatura.Testes\\TestesConversorTemperatura.cs",
+              "RelativeToolTip": "TestesConversorTemperatura.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:43:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

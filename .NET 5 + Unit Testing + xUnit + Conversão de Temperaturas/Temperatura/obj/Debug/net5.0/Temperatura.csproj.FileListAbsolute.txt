@@ -1,0 +1,11 @@
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\bin\Debug\net5.0\Temperatura.deps.json
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\bin\Debug\net5.0\Temperatura.dll
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\bin\Debug\net5.0\Temperatura.pdb
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfo.cs
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.dll
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\refint\Temperatura.dll
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\Temperatura.pdb
+C:\Users\livia\source\repos\.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas\Temperatura\obj\Debug\net5.0\ref\Temperatura.dll
