@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATQ7Ms6ZC5F1kBQmEYq37VTfwMKX73k3YxU6joTca69zkknpWcRH1Jor58cUxqRwMMuaYIEKZCE2gkqmj5UN3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\livia\\source\\repos\\.NET 5 + Unit Testing + NUnit + Conversão de Temperaturas\\Temperatura\\Temperatura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\livia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\livia\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\livia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
